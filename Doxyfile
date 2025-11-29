@@ -1,0 +1,6 @@
+PROJECT_NAME = ModernCppStarter 
+OUTPUT_DIRECTORY = ./docs 
+INPUT = ./include ./src 
+RECURSIVE = YES 
+GENERATE_HTML = YES 
+HTML_OUTPUT = html 
